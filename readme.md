@@ -8,5 +8,5 @@ Using Lexer
 ## step 2:
 make compiler
 
-#step 3:
+## step 3:
 make tests
